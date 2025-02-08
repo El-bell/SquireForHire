@@ -1,0 +1,6 @@
+﻿  Game.cpp
+C:\Users\Elana\Downloads\AIE-Intro-To-CPlusPlus-AT4-main\AIE-Intro-To-CPlusPlus-AT4-main\SquireForHire\SquireForHire\Game.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Elana\Downloads\AIE-Intro-To-CPlusPlus-AT4-main\AIE-Intro-To-CPlusPlus-AT4-main\SquireForHire\SquireForHire\Game.cpp(167,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Elana\Downloads\AIE-Intro-To-CPlusPlus-AT4-main\AIE-Intro-To-CPlusPlus-AT4-main\SquireForHire\SquireForHire\Game.cpp(698,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Elana\Downloads\AIE-Intro-To-CPlusPlus-AT4-main\AIE-Intro-To-CPlusPlus-AT4-main\SquireForHire\SquireForHire\Game.cpp(700,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  SquireForHire.vcxproj -> C:\Users\Elana\Downloads\AIE-Intro-To-CPlusPlus-AT4-main\AIE-Intro-To-CPlusPlus-AT4-main\SquireForHire\x64\Debug\SquireForHire.exe
