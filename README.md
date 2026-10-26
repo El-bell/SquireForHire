@@ -11,6 +11,6 @@ to view your inventory simple type: i
 to use an item type: use + the name of the item (some items can be used but have no tangiable effect in this version of the game)
 
 currently you cannot view your shopping list, but to check if an item is on your shopping list type: search + name of item
-this will tell you if the item is on your shopping list and IF the has been obtained
+this will tell you if the item is on your shopping list and IF the item has been obtained
 
 There is currently NO END in this version of the game and is just the exploration/ shopping parts of the game.
